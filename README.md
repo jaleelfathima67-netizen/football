@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Golf Charity Subscription Platform
 
 **Prepared for: Digital Heroes Selection Process**
@@ -54,3 +55,7 @@ As per Section 15 of the PRD Evaluation Criteria, here are the hardcoded test cr
 
 ---
 *Developed meticulously matching the detailed abstract requirements provided by Digital Heroes.*
+=======
+# football
+project
+>>>>>>> 020feded56eac5d79bd0bcc44309d9d710fecb02
